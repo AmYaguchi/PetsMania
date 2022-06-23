@@ -1,0 +1,117 @@
+body {
+    background-color: #f5eded;
+}
+
+#top_nav {
+    background-color: white !important;
+    padding: 0 5%;
+}
+
+#bannerpara {
+    font-weight: 500;
+}
+
+#banner {
+    background-color: #f5eded;
+}
+
+#bannerimg {
+    border: 0;
+}
+
+@media only screen and (max-width:767px) {
+    #servicebtn {
+        margin-bottom: 5%;
+    }
+}
+
+@media only screen and (max-width:704px) {
+    #servicebtn {
+        margin-top: -10%;
+    }
+}
+
+#bloghead {
+    font-weight: 700;
+}
+
+#blogpara {
+    font-weight: 600;
+    font-size: 120%;
+}
+
+@media only screen and (max-width:509px) {
+    .blogfont {
+        font-size: 80%;
+    }
+}
+
+.blogfont {
+    font-weight: 500;
+}
+
+@media only screen and (max-width:424px) {
+    .blogfont {
+        font-size: 70%;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    .blogfont {
+        font-size: 60%;
+    }
+}
+
+@media only screen and (min-width:1192px) and (max-width:1440px) {
+    .useles {
+        height: 190px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:869px) {
+    .useles {
+        height: 320px;
+    }
+}
+
+@media only screen and (min-width:870px) and (max-width:978px) {
+    .useles {
+        height: 280px;
+    }
+}
+
+@media only screen and (min-width:978px) and (max-width:1191px) {
+    .useles {
+        height: 250px;
+    }
+}
+
+@media only screen and (min-width:725px) and (max-width:767px) {
+    .useles {
+        height: 40px;
+    }
+}
+
+@media only screen and (min-width:540px) and (max-width:724px) {
+    .useles {
+        height: 60px;
+    }
+}
+
+@media only screen and (min-width:421px) and (max-width:539px) {
+    .useles {
+        height: 80px;
+    }
+}
+
+@media only screen and (max-width:420px) {
+    .useles {
+        height: 60px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:849px) {
+    #tp {
+        font-size: 85%;
+    }
+}
